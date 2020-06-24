@@ -1,0 +1,32 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <array name="notification_labels">
+        <item>@string/two_hours</item>
+        <item>@string/one_hour</item>
+        <item>@string/half_hour</item>
+        <item>@string/fifteen</item>
+        <item>@string/five</item>
+        <item>@string/None</item>
+    </array>
+
+    <array name="notification_values">
+        <item>@string/two_value</item>
+        <item>@string/one_value</item>
+        <item>@string/half_value</item>
+        <item>@string/fifteen_value</item>
+        <item>@string/five_value</item>
+        <item>@string/none_value</item>
+    </array>
+
+</resources>
+

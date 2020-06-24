@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268708501906",
+    "firebase_url": "https://mavsschedule2.firebaseio.com",
+    "project_id": "mavsschedule2",
+    "storage_bucket": "mavsschedule2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268708501906:android:e8faca2d00eb853ff5094b",
+        "android_client_info": {
+          "package_name": "com.example.mavs_schedule_2019_2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268708501906-4mnb8bk93u99skes8vvckv0pb6iik02i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mavs_schedule_2019_2020",
+            "certificate_hash": "8dc78ac4b4baa0e6fe2662a28d8c677671290de4"
+          }
+        },
+        {
+          "client_id": "268708501906-12tuq7dj7qvieuurfciqt2hqbpjipd5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtlSSExCZKksBY369VlAQ3kRsHD4eDI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268708501906-12tuq7dj7qvieuurfciqt2hqbpjipd5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

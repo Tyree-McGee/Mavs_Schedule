@@ -1,0 +1,83 @@
+1	Wed, 10 23 2019 08:30p	$Washington Wizards
+2	Fri, 10 25 2019 08:00p	$New Orleans Pelicans
+3	Sun, 10 27 2019 07:00p	$Portland Trail Blazers
+4	Tue, 10 29 2019 09:00p	$Denver Nuggets
+5	Fri, 11 01 2019 09:30p	$Los Angeles Lakers
+6	Sun, 11 03 2019 07:30p	$Cleveland Cavaliers
+7	Wed, 11 06 2019 08:30p	$Orlando Magic
+8	Fri, 11 08 2019 08:30p	$New York Knicks
+9	Sat, 11 09 2019 08:00p	$Memphis Grizzlies
+10	Mon, 11 11 2019 07:30p	$Boston Celtics
+11	Thu, 11 14 2019 08:00p	$New York Knicks
+12	Sat, 11 16 2019 08:30p	$Toronto Raptors
+13	Mon, 11 18 2019 08:30p	$San Antonio Spurs
+14	Wed, 11 20 2019 07:30p	$Golden State Warriors
+15	Fri, 11 22 2019 08:30p	$Cleveland Cavaliers
+16	Sun, 11 24 2019 03:30p	$Houston Rockets
+17	Tue, 11 26 2019 08:30p	$Los Angeles Clippers
+18	Fri, 11 29 2019 09:00p	$Phoenix Suns
+19	Sun, 12 01 2019 04:00p	$Los Angeles Lakers
+20	Tue, 12 03 2019 07:30p	$New Orleans Pelicans
+21	Wed, 12 04 2019 08:30p	$Minnesota Timberwolves
+22	Sat, 12 07 2019 02:00p	$New Orleans Pelicans
+23	Sun, 12 08 2019 07:00p	$Sacramento Kings
+24	Thu, 12 12 2019 09:00p	$Detroit Pistons
+25	Sat, 12 14 2019 08:30p	$Miami Heat
+26	Mon, 12 16 2019 08:00p	$Milwaukee Bucks
+27	Wed, 12 18 2019 09:30p	$Boston Celtics
+28	Fri, 12 20 2019 08:00p	$Philadelphia 76ers
+29	Sun, 12 22 2019 03:30p	$Toronto Raptors
+30	Thu, 12 26 2019 08:00p	$San Antonio Spurs
+31	Sat, 12 28 2019 08:30p	$Golden State Warriors
+32	Sun, 12 29 2019 09:30p	$Los Angeles Lakers
+33	Tue, 12 31 2019 08:00p	$Oklahoma City Thunder
+34	Thu, 01 02 2020 08:30p	$Brooklyn Nets
+35	Sat, 01 04 2020 08:30p	$Charlotte Hornets
+36	Mon, 01 06 2020 08:30p	$Chicago Bulls
+37	Wed, 01 08 2020 07:30p	$Denver Nuggets
+38	Fri, 01 10 2020 09:45p	$Los Angeles Lakers
+39	Sat, 01 11 2020 08:30p	$Philadelphia 76ers
+40	Tue, 01 14 2020 10:30p	$Golden State Warriors
+41	Wed, 01 15 2020 10:00p	$Sacramento Kings
+42	Fri, 01 17 2020 09:30p	$Portland Trail Blazers
+43	Tue, 01 21 2020 08:30p	$Los Angeles Clippers
+44	Thu, 01 23 2020 10:30p	$Portland Trail Blazers
+45	Sat, 01 25 2020 05:00p	$Utah Jazz
+46	Mon, 01 27 2020 08:00p	$Oklahoma City Thunder
+47	Tue, 01 28 2020 08:30p	$Phoenix Suns
+48	Fri, 01 31 2020 08:00p	$Houston Rockets
+49	Sat, 02 01 2020 08:30p	$Atlanta Hawks
+50	Mon, 02 03 2020 07:00p	$Indiana Pacers
+51	Wed, 02 05 2020 08:30p	$Memphis Grizzlies
+52	Fri, 02 07 2020 07:00p	$Washington Wizards
+53	Sat, 02 08 2020 07:00p	$Charlotte Hornets
+54	Mon, 02 10 2020 08:30p	$Utah Jazz
+55	Wed, 02 12 2020 08:30p	$Sacramento Kings
+56	Fri, 02 21 2020 07:00p	$Orlando Magic
+57	Sat, 02 22 2020 07:30p	$Atlanta Hawks
+58	Mon, 02 24 2020 08:30p	$Minnesota Timberwolves
+59	Wed, 02 26 2020 07:30p	$San Antonio Spurs
+60	Fri, 02 28 2020 08:00p	$Miami Heat
+61	Sun, 03 01 2020 03:30p	$Minnesota Timberwolves
+62	Mon, 03 02 2020 08:00p	$Chicago Bulls
+63	Wed, 03 04 2020 08:30p	$New Orleans Pelicans
+64	Fri, 03 06 2020 08:30p	$Memphis Grizzlies
+65	Sun, 03 08 2020 07:00p	$Indiana Pacers
+66	Tue, 03 10 2020 08:00p	$San Antonio Spurs
+67	Wed, 03 11 2020 08:30p	$Denver Nuggets
+68	Sat, 03 14 2020 02:00p	$Phoenix Suns
+69	Mon, 03 16 2020 10:30p	$Los Angeles Clippers
+70	Tue, 03 17 2020 10:00p	$Sacramento Kings
+71	Thu, 03 19 2020 10:00p	$Portland Trail Blazers
+72	Sat, 03 21 2020 10:00p	$Phoenix Suns
+73	Mon, 03 23 2020 08:30p	$Houston Rockets
+74	Thu, 03 26 2020 08:30p	$Utah Jazz
+75	Sun, 03 29 2020 03:00p	$Milwaukee Bucks
+76	Wed, 04 01 2020 08:00p	$Minnesota Timberwolves
+77	Fri, 04 03 2020 08:00p	$Memphis Grizzlies
+78	Sun, 04 05 2020 06:00p	$Brooklyn Nets
+79	Tue, 04 07 2020 08:30p	$Houston Rockets
+80	Sat, 04 11 2020 03:00p	$Detroit Pistons
+81	Mon, 04 13 2020 09:00p	$Denver Nuggets
+82	Wed, 04 15 2020 07:30p	$Oklahoma City Thunder
+
