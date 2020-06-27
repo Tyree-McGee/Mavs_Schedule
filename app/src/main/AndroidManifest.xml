@@ -22,7 +22,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.mavs_schedule_2019_2020.MainActivity" />
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" android:configChanges="orientation|screenSize|keyboardHidden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
