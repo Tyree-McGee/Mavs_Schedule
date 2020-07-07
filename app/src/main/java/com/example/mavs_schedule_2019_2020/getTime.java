@@ -11,8 +11,6 @@ public class getTime {
         SimpleDateFormat f = new SimpleDateFormat("MM dd yyyy HH:mm");
         Date tipoff = f.parse(sTime);
         Date realTip = new Date(tipoff.getTime() + 12 * HOUR);
-        // System.out.println(tipoff);
         Timelist.add(realTip);
-        //Timelist.print();
     }
 }

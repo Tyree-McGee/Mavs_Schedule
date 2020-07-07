@@ -56,9 +56,6 @@ public class MainActivity extends AppCompatActivity implements SharedPreferences
     String pref = null;
     public static Timer t[] = new Timer[fileInput.seasonLength];
     private static boolean started = false;
-    private Handler handle = new Handler(Looper.getMainLooper());
-    private SendNotification not;
-    static String ID = "01";
     AlarmManager alarmManager;
     PendingIntent pendingIntent[] = new PendingIntent[seasonLength];
      // The request code in it
@@ -71,7 +68,6 @@ public class MainActivity extends AppCompatActivity implements SharedPreferences
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //It's running multiple instances
         if (savedInstanceState == null) {
             this.combo.clear();
             for (int i = 0; i < fileInput.seasonLength; i++) {

@@ -10,7 +10,6 @@ public class GameTime {
             getTime.calcTime(test);
         }
         getOpponent();
-        //StartAlarm.go();
     }
 
     public static void getOpponent()throws Exception{
@@ -20,6 +19,5 @@ public class GameTime {
             OpponentList.add(o);
         }
     }
-
 
 }
